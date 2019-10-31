@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Multidimensions Arrays Exercise/1.iml" filepath="$PROJECT_DIR$/Multidimensions Arrays Exercise/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance.iml" filepath="$PROJECT_DIR$/Advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defining Classes EXERCISE/Defining Classes EXERCISE.iml" filepath="$PROJECT_DIR$/Defining Classes EXERCISE/Defining Classes EXERCISE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defining Classes LAB/Defining Classes LAB.iml" filepath="$PROJECT_DIR$/Defining Classes LAB/Defining Classes LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional Programming/Functional Programming.iml" filepath="$PROJECT_DIR$/Functional Programming/Functional Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics_Exercise/Generics_Exercise.iml" filepath="$PROJECT_DIR$/Generics_Exercise/Generics_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics_LAB/Generics_LAB.iml" filepath="$PROJECT_DIR$/Generics_LAB/Generics_LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set And Map Lab/Set And Map Lab.iml" filepath="$PROJECT_DIR$/Set And Map Lab/Set And Map Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sets And Maps Exercise/Sets And Maps Exercise.iml" filepath="$PROJECT_DIR$/Sets And Maps Exercise/Sets And Maps Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack And Queues/Stack And Queues.iml" filepath="$PROJECT_DIR$/Stack And Queues/Stack And Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks And Queues Exercise/Stacks And Queues Exercise.iml" filepath="$PROJECT_DIR$/Stacks And Queues Exercise/Stacks And Queues Exercise.iml" />
+    </modules>
+  </component>
+</project>

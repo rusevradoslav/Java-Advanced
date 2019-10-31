@@ -1,0 +1,16 @@
+package GenericBox_01;
+
+import java.util.ArrayList;
+
+public class Box<T> {
+    private T element;
+
+    public Box(T element) {
+        this.element = element;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s: %s", element.getClass().getName(), element);
+    }
+}
